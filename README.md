@@ -20,7 +20,9 @@
 
 ## :grey_question: Scope of Work
 
-- 1) Mapping out options for 3D scanning:
+The initial scope of work aims at understanding the progression where 1) a physical object is translated into a data object, 2) the data object is edited and refined, and 3) scenes are created by arranging data objects together and by adding motion to the arrangements. 
+
+- Mapping out options for 3D scanning:
   - methods
   - precision
   - colour
@@ -28,14 +30,14 @@
   - compatibility with downstream applications
   - cost
 
-- 2) Mapping out options to edit and refine objects
+- Mapping out options to edit and refine objects
   - methods
   - key softwares
   - available talent (e.g. Fiverr)
   - work supervision
   - outline of project workflow
 
-- 3) Mapping out options to create scenes with motions
+- Mapping out options to create scenes with motions
   - methods
   - key softwares
   - available talent (e.g. Fiverr)
