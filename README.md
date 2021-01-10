@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center"> <b>In Three Dimensions</b> is a discovery project focused on identifying and standardizing key workflows for representing the rich Tibetan iconography across a variety of VR, AR, printing, and other 3D applications. 
+<p align="center"> <b>In Three Dimensions</b> is a discovery project focused on identifying and standardizing key workflows for representing the rich Tibetan iconography tradition across VR, AR, printing, and other 3D applications. 
 </p>
 
 <hr>
