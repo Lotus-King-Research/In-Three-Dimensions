@@ -15,3 +15,33 @@
 
 <p align="center"> <b>In Three Dimensions</b> is a discovery project focused on identifying and standardizing key workflows for representing the rich Tibetan iconography across a variety of VR, AR, printing, and other 3D applications. 
 </p>
+
+<hr>
+
+## :grey_question: Scope of Work
+
+- 1) Mapping out options for 3D scanning:
+  - methods
+  - precision
+  - colour
+  - portability
+  - compatibility with downstream applications
+  - cost
+
+- 2) Mapping out options to edit and refine objects
+  - methods
+  - key softwares
+  - available talent (e.g. Fiverr)
+  - work supervision
+  - outline of project workflow
+
+- 3) Mapping out options to create scenes with motions
+  - methods
+  - key softwares
+  - available talent (e.g. Fiverr)
+  - work supervision
+  - outline of project workflow
+ 
+## :copyright: Copyright
+
+**In Three Dimensions** is available on permissive _Creative Commons Share-alike Non-commercial_ license that lets others remix, adapt, and build upon **In Three Dimensions** non-commercially, as long as they credit **In Three Dimensions** and license their new creations under the identical terms.
