@@ -20,7 +20,11 @@
 
 ## :grey_question: Scope of Work
 
-The initial scope of work aims at understanding the progression where 1) a physical object is translated into a data object, 2) the data object is edited and refined, and 3) scenes are created by arranging data objects together and by adding motion to the arrangements. 
+The initial scope of work aims at understanding the process where 1) a physical object is translated into a data object, 2) the data object is edited and refined, and 3) scenes are created by arranging data objects together and by adding motion to the arrangements. 
+
+In the process under investigation, the input is a physical object, and the output is a data object. The output data object accurately represents the original physical object. The data object must then be readily usable in popular VR and AR development platforms and common 3D-printing software. 
+
+This project is focused on understanding how the process between the input and the output might work.
 
 - Mapping out options for 3D scanning:
   - methods
@@ -32,17 +36,17 @@ The initial scope of work aims at understanding the progression where 1) a physi
 
 - Mapping out options to edit and refine objects
   - methods
-  - key softwares
+  - key software platforms
   - available talent (e.g. Fiverr)
   - work supervision
-  - outline of project workflow
+  - outline of an example project workflow
 
 - Mapping out options to create scenes with motions
   - methods
-  - key softwares
+  - key software platforms
   - available talent (e.g. Fiverr)
   - work supervision
-  - outline of project workflow
+  - outline of an example project workflow
 
 ## :copyright: Copyright
 
