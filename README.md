@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Exploring 3D technology for Buddhadharma in VR, AR, and printing applications.</h3>
+<h3 align="center">Exploring 3D technology for Buddhadharma for VR, AR, and printing applications.</h3>
 
 <p align="center">
   
@@ -43,7 +43,7 @@ The initial scope of work aims at understanding the progression where 1) a physi
   - available talent (e.g. Fiverr)
   - work supervision
   - outline of project workflow
- 
+
 ## :copyright: Copyright
 
 **In Three Dimensions** is available on permissive _Creative Commons Share-alike Non-commercial_ license that lets others remix, adapt, and build upon **In Three Dimensions** non-commercially, as long as they credit **In Three Dimensions** and license their new creations under the identical terms.
