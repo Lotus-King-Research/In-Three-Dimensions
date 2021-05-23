@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://eka.to"><img src="https://raw.githubusercontent.com/Lotus-King-Research/Home/main/Assets/Images/Lotus-King-Research-Logo-Transparent.png" alt="Lotus King Research" width="200"></a>
+  <a href="http://lotuskingtrust.org"><img src="https://raw.githubusercontent.com/Lotus-King-Research/Home/main/Assets/Images/Lotus-King-Research-Logo-Transparent.png" alt="Lotus King Research" width="200"></a>
   <br>
 </h1>
 
